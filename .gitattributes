@@ -1,0 +1,2 @@
+bin/mysql/mysql-5.7.9-winx64/bin/mysqld.pdb filter=lfs diff=lfs merge=lfs -text
+bin/mysql/mysql-5.7.9-winx64/lib/mysqlserver.lib filter=lfs diff=lfs merge=lfs -text
